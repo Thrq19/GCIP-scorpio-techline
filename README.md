@@ -1,5 +1,5 @@
 # Green Campus Intelligence Platform (GCIP)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-2ea44f?style=for-the-badge&logo=vercel)](gcip-scorpio-techline.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-2ea44f?style=for-the-badge&logo=vercel)](https://gcip-scorpio-techline.vercel.app/)
 
 ## 📌 Deskripsi Aplikasi
 GCIP adalah **High-Fidelity Prototype** aplikasi web untuk manajemen keberlanjutan kampus (Smart Campus). Aplikasi ini mensimulasikan ekosistem digital yang menghubungkan partisipasi mahasiswa (User) dengan pemantauan manajemen (Admin) secara *real-time*.
